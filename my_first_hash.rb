@@ -11,7 +11,7 @@ def shipping_manifest
 end
 
 def retrieval
- 
+    
   return shipping_manifest["key3"]
 
 end
